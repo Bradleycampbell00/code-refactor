@@ -5,6 +5,6 @@ Fixed navbar.
 
 Updated both README and added comments to the css and html files.
 
-![image](/code-refactor/assets/images/Class.png)
+![image](/assets/images/Class.png)
 
 link to website:  https://bradleycampbell00.github.io/code-refactor/
